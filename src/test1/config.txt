@@ -1,0 +1,4 @@
+java main.Machine --registry "127.0.0.1" --portRegistry 1099 --id 1 --resource "(A,100)" --resource "(B,0)"
+java main.Machine --registry "127.0.0.1" --portRegistry 1099 --id 2 --resource "(C,100)" --resource "(D,0)"
+java main.Executor --portSocket 5001 --registry "127.0.0.1" --portRegistry 1099 --machines 2 --delay 50 --reaction "A + C -> B"
+java main.Executor --portSocket 5006 --registry "127.0.0.1" --portRegistry 1099 --machines 2 --delay 50 --reaction "A + C -> D"

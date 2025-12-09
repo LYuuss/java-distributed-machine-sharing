@@ -1,0 +1,436 @@
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Ready ! Reaction rules available :[A + C -> D]
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:11 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:11 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:11 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:11 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:11 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:11 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Overall ratio at attempt 1 : 1.0
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:11 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:11 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:11 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:11 [Exe@10.64.10.15:5001 Overall ratio at attempt 2 : 1.0
+INFO: 2025-12-05 13:29:11 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:11 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:11 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A could not lock the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C could not lock the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Aborted
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Aborted
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : false
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 3 : 0.6666667
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 4 : 0.75
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 5 : 0.8
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 6 : 0.8333333
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 7 : 0.85714287
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 8 : 0.875
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 9 : 0.8888889
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 10 : 0.9
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 11 : 0.90909094
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 12 : 0.9166667
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 13 : 0.9230769
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 14 : 0.9285714
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A could not lock the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Aborted
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : false
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 15 : 0.8666667
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Aborted, did not consumed it and released the lock then aborted
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C could not lock the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A could not lock the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Aborted
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Aborted
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : false
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 16 : 0.8125
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 17 : 0.8235294
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 18 : 0.8333333
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 19 : 0.84210527
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 20 : 0.85
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:12 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:12 SlaveConsumer for C could not lock the resource
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource C Aborted
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : false
+INFO: 2025-12-05 13:29:12 [Exe@10.64.10.15:5001 Overall ratio at attempt 21 : 0.8095238
+INFO: 2025-12-05 13:29:12 SlaveConsumer for resource A Aborted, did not consumed it and released the lock then aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C could not lock the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : false
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 22 : 0.77272725
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Aborted, did not consumed it and released the lock then aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 23 : 0.7826087
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C could not lock the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A could not lock the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Aborted
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : false
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 24 : 0.75
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A could not lock the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : false
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 25 : 0.72
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Aborted, did not consumed it and released the lock then aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A could not lock the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : false
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 26 : 0.6923077
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Aborted, did not consumed it and released the lock then aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 27 : 0.7037037
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 28 : 0.71428573
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 29 : 0.7241379
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 30 : 0.73333335
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C could not lock the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : false
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 31 : 0.7096774
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Aborted, did not consumed it and released the lock then aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A could not lock the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : false
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 32 : 0.6875
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Aborted, did not consumed it and released the lock then aborted
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 33 : 0.6969697
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 34 : 0.7058824
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 produced 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Trying to make : A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 SlaveConsumer for A locked the resource
+INFO: 2025-12-05 13:29:13 SlaveConsumer for C locked the resource
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase I for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Beginning phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Ending phase II for A + C -> D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Reaction attempted : A + C -> D result : true
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 start producing 1 of D
+INFO: 2025-12-05 13:29:13 [Exe@10.64.10.15:5001 Overall ratio at attempt 35 : 0.71428573
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource A Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveConsumer for resource C Commited, consumed it and released the lock
+INFO: 2025-12-05 13:29:13 SlaveProducer5001 produced 1 of D
